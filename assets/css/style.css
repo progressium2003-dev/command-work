@@ -20,3 +20,12 @@ button {
     margin: 0 auto;
 }
 
+.bg{
+    background: black;
+}
+
+.ttitle{
+    font-size: 100px;
+    color: rebeccapurple;
+
+}
