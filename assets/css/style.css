@@ -29,3 +29,11 @@ button {
     color: rebeccapurple;
 
 }
+
+
+.krug{
+    background: rgb(130, 90, 16);
+    width: 100px;
+    height: 550px;
+    border: rgb(88, 1, 1) 10px solid;
+}
